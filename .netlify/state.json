@@ -1,0 +1,19 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Sirsa",
+			"country": {
+				"code": "IN",
+				"name": "India"
+			},
+			"subdivision": {
+				"code": "HR",
+				"name": "Haryana"
+			},
+			"timezone": "Asia/Kolkata",
+			"latitude": 29.5386,
+			"longitude": 75.0272
+		},
+		"timestamp": 1710822529959
+	}
+}
